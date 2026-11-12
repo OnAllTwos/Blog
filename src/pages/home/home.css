@@ -1,0 +1,28 @@
+.framedImage {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.postColumn {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.postItem {
+    width: 70%;
+}
+
+.itemBreak {
+    width: 100%;
+}
+.centerBanner {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .postItem {
+        width: 100%;
+    }
+}

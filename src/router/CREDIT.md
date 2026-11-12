@@ -1,0 +1,2 @@
+Adapted from:
+https://dev.to/kodnificent/how-to-build-a-router-with-vanilla-javascript-2a18
